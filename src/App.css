@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.add_todo {
+  display: flex;
+  margin: 0 10rem;
+}
+
+.TodoItem {
+  display: flex;
+  justify-content: center;
+}
